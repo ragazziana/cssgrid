@@ -18,35 +18,35 @@ body{
 
 aside{
     grid-area: sidebar;
-    background: crimson;
+    background:   #007FFF;
 }
 
 header{
     grid-area: header;
-    background-color: darkgoldenrod;
+    background-color: #91C8FF ;
 }
 
 section:nth-of-type(1){
     grid-area: sect1;
-    background: gold;
+    background: #B3D8FD;
 }
 section:nth-of-type(2){
     grid-area: sect2;
-    background: burlywood;
+    background: #5E86AF;
 }
 section:nth-of-type(3){
     grid-area: sect3;
-    background:peru;
+    background: #6D9FD2;
 }
 
 main{
     grid-area: main;
-    background: darkmagenta;
+    background: #7DA9D5;
 }
 
 footer{
     grid-area: footer;
-    background: darkviolet;
+    background: #588EC3;
 }
 
 @media only screen and (min-width: 768px){
@@ -61,15 +61,4 @@ footer{
                 "sidebar main main main"
                 "sidebar footer footer footer"
     }
-}
-
-.menu {
-    list-style-type: none;
-    margin: 0;
-  padding: 0;
-    
-}
-
-li{
-    display: inline;
 }
