@@ -1,2 +1,18 @@
-Grid Template Areas Tutorial Project
-This is the project based on the following tutorial: Easily Structure your Layout with CSS Grid's 'grid-template-areas'.
+# Studying CSS Grid 👩🏻‍💻
+------
+
+![alt text](https://github.com/ragazziana/cssgrid/blob/master/css-grid.png?raw=true "Follow me on Twitter!")
+![alt text](https://img.shields.io/twitter/follow/anaragazzi_?style=social "Follow me on Twitter!")
+
+------
+> Just a simple CSS Grid layout. 
+
+## Tecnologies used in this project
+------
+1. HTML
+1. CSS
+
+## Author
+------
+👩 
+**Ana Ragazzi**
